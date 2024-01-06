@@ -1,0 +1,13 @@
+#hero {
+    height: 100vh;
+    width: 100;
+    background-image: url('./about-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+    position: relative;
+}
+
+li {
+    list-style-type: none;
+}
